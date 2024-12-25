@@ -2,7 +2,7 @@
 
 ### 💻 Tech Stack:
 <strong>Frontend</strong> : React.js, Tailwind CSS <br/>
-<strong>Backend</strong> : Node.js, Express.js <br/>
+<strong>Backend</strong> : Node.js, Express.js , Java Server Pages <br/>
 <strong>Database</strong> : MongoDB, Oracle SQL <br/>
 <strong>Languages</strong> : C, Java, Python <br/>
 
