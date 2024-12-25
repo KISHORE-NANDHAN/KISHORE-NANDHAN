@@ -1,10 +1,10 @@
-👋 Hi, I’m Kishore Nandhan, a passionate web developer and tech enthusiast with a focus on building efficient and user-friendly applications.
+### 👋 Hi, I’m Kishore Nandhan, a passionate web developer and tech enthusiast with a focus on building efficient and user-friendly applications.
 
 ### 💻 Tech Stack:
 <strong>Frontend</strong> : React.js, Tailwind CSS <br/>
-<strong>Backend</strong> : Node.js, Express.js
-<strong>Database</strong> : MongoDB, Oracle SQL
-<strong>Languages</strong> : C, Java, Python
+<strong>Backend</strong> : Node.js, Express.js <br/>
+<strong>Database</strong> : MongoDB, Oracle SQL <br/>
+<strong>Languages</strong> : C, Java, Python <br/>
 
 ### 🌟 Interests:
 Web Development (MERN Stack)
