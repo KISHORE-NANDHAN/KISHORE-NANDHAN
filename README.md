@@ -14,7 +14,7 @@ Artificial Intelligence & Machine Learning
 - Designed a Food Delivery Website, enabling seamless ordering, restaurant management, and real-time tracking. ( JSP, HTML , JavaScript, CSS)
 - Created a Social Media Platform with features like user authentication, posts, comments, and follower systems. (MERN Stack, Firebase)
 - Developed a Job Application Portal with dual login for recruiters and applicants, including resume uploads and automated email notifications. (MERN Stack)
-- Built a Flood Alert System with real-time monitoring, data visualization, and multi-channel alerts. (MERN stack)
+- Built a Flood Alert System for sending SMS using SMS API using Twilio  (MERN stack)
 
 📚 Always eager to learn and contribute to innovative projects. Let's connect and collaborate!<br/>
 📫 nandhakishorejajula@gmail.com
